@@ -1,5 +1,5 @@
 # FPGA Acceleration Course Project #
-In this work, we are trying to implement an artificial neural network (ANN) on FPGA platform which can recognize hand-writing digits from MNIST dataset in a relatively high accuracy. \
+In this work, we are trying to implement an artificial neural network (ANN) on FPGA platform which can recognize hand-writing digits from MNIST dataset in a relatively high accuracy. 
 
 ![SMC](https://github.com/sai-shi/Hardware-Acceleration-of-Neural-Networks/blob/main/SMC.png)
 
